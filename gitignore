@@ -1,0 +1,22 @@
+# Python
+ml-service/venv/
+__pycache__/
+*.pyc
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+
+# Java / Spring Boot
+backend/backend/target/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment secrets (if you ever add one)
+.env
